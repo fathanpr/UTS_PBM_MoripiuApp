@@ -1,0 +1,43 @@
+{"mv":[
+    {
+        "Title": "Avenger: Infinity War",
+        "Rating": "13+",
+        "Runtime": "162 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "Images": [
+          "assets/poster1.jpg"
+        ]
+      },
+      {
+          "Title": "Avenger: End Game",
+          "Rating": "13+",
+          "Runtime": "153 min",
+          "Genre": "Action, Adventure, Fantasy",
+          "Plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+          "Images": [
+            "assets/poster2.jpg"
+          ]
+        },
+        {
+          "Title": "Spiderman:FFH",
+          "Rating": "13+",
+          "Runtime": "153 min",
+          "Genre": "Action, Adventure, Fantasy",
+          "Plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+          "Images": [
+            "assets/poster3.jpg"
+          ]
+        },
+        {
+          "Title": "Spiderman:NWH",
+          "Rating": "13+",
+          "Runtime": "153 min",
+          "Genre": "Action, Adventure, Fantasy",
+          "Plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+          "Images": [
+            "assets/poster2.jpg"
+          ]
+        }
+]
+}

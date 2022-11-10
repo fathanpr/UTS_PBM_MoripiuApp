@@ -1,0 +1,51 @@
+name: moripiuapp
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  # social_login_buttons: ^1.0.7
+  # getwidget: ^2.0.4
+  scroll_loop_auto_scroll: ^0.0.5
+  custom_signin_buttons: ^1.0.2
+  font_awesome_flutter: ^10.2.1
+  google_fonts: ^3.0.1  
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_native_splash: ^2.2.14
+  flutter_launcher_icons: ^0.10.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/ic_logo.png"
+  adaptive_icon_foreground: "assets/ic_logo.png"
+  adaptive_icon_background: "#171717"
+
+
+flutter_native_splash:
+  android_12:
+    image: assets/logo-simple.png
+    color: '#171717'
+  image: assets/logo-simple.png
+  color: '#171717'
+  android: true
+  ios: true
+  web: true
+  android_gravity: center
+
+flutter:
+  uses-material-design: true
+  assets:
+      - assets/
